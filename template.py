@@ -45,4 +45,4 @@ for filepath in list_of_files:
 
 
     else:
-        logging.info(f"{filename} is already exists")git remote set-url origin https://github.com/username/repo.git
+        logging.info(f"{filename} is already exists")
